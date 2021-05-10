@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main {
+    text-align: center;
+    background: aqua;
+    height: 30px;
+    width:100%;
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    padding: 0px 30px;
+    position:fixed;
+    
+}
+.logo {
+    font-family: fantasy;
+    font-size: 25px;
+    float: left;
+}
+.logo span {
+    color:blueviolet;
+    
+}
+.menu {
+    float:right;
+    
+}
+.menu li {
+    list-style: none;
+    float: left;
+    
+    
+}
+.menu li a {
+    text-decoration: none;
+    color: beige;
+    padding: 5px 40px;
+    color:black;
+    
+}
+.menu li:hover a {
+    color: blue;
+}
+.img1 img {
+    height: 651px;  
+    margin: 5px 105px;
+    
+}
+.text {
+    position: absolute;
+    top: 50%;
+    left:40%;
+    font-size:40px;
+    color: deeppink;
+    font-style: bold;
+    background:rgb(255 255 255 / 0%);
+}
+.myskill{
+   background:#bbb ;
+    height: 250px;
+    weight:1280px;
+    margin: 40px; 
+    padding: 20px;
+}
+
+.myskill div {
+    display: inline-block;
+    
+}
+.myskill div h1{
+    text-align: center;
+}
+.html{
+    height: 160px;
+    width:28%;
+    border: 1px solid;
+    margin: 15px;
+    padding: 10px;
+}
+.css{
+    height: 160px;
+    width:28%;
+    border: 1px solid;
+    margin: 15px;
+    padding: 10px;
+}
+.java{
+    height: 160px;
+    width:28%;
+    border: 1px solid;
+    margin: 15px;
+    padding: 10px;
+}
+.html:hover {
+    background: #000;
+    color: white;
+}
+.html:hover h1 {
+    color: blue;
+}
+.css:hover {
+    background: #000;
+    color: white;
+}
+.css:hover h1 {
+    color: blue;
+}
+.java:hover {
+    background: #000;
+    color: white;
+}
+.java:hover h1 {
+    color: blue;
+}
+.myinfo{
+    height: 150px;
+    width:auto;
+    background: blue;
+    padding: 0px 50px;
+    margin: 60px 20px;
+
+}
+.infoimg img{
+    height: 139px;
+    width: 85px;
+    margin: 5px 0px;
+    float: left;
+    padding: 0px 80px;
+   
+}
+.infowrite {
+    float: right; 
+    padding: 0px 80px;
+}
+
+
+
+
+
