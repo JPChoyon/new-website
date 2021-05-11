@@ -134,6 +134,55 @@ body{
 }
 
 
+footer{
+    margin: 10px 0px;
+}
+.footer{
+    background: black;
+    height: 250px;
+    border-top: 3px solid blue;
+    display: block;
+    text-align: center;
+}
+.about {
+    float: left;
+   height:150px;
+    width: 450px;
+    color:aqua;
+    padding:40px 70px;
+}
+.about h1{
+    color: blue;
+    border-bottom: 2px dashed white;
+}
+.about ul li {
+   list-style: none;
+}
+.jpnetwark {
+    float: left;
+    height:150px;
+    width: 450px;
+    color: aqua;
+    padding:40px 70px;
+    
+}
+.jpnetwark h1{
+    color: blue;
+    border-bottom: 2px dashed white;
+}
+.jpnetwark ul li {
+   list-style: none;
+}
+.copy {
+    background: blue;
+    color:white;
+    display: block;
+    height:4px;
+    padding: 1% 20%;
+}
+
+
+
 
 
 
